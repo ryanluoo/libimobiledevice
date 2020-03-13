@@ -56,3 +56,4 @@ tools/idevicenotificationproxy
 cython/.libs/*
 cython/*.c
 doxygen.cfg
+cmake-build-debug
